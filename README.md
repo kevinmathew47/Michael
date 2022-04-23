@@ -9,13 +9,13 @@
     <p align="center">
     
     
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=000EF7&lines=Welcome+to+Ajuser+WA+Bot...;Created+by+Aju....;This+is+a+Bgm+stickerbot...;With+more+features...)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=000EF7&lines=Welcome+to+Mic+WA+Bot...;Created+by+Michael....;This+is+a+Bgm+stickerbot...;With+more+features...)](https://git.io/typing-svg)
   
-<a href="#"><img title="Ajuser_v2" src="https://img.shields.io/badge/-Ajuser-blue?&style=for-the-badge"></a>
+<a href="#"><img title="Mic_v1"></a>
 </p>
   </p>
 <p align="center">
-<a href="https://github.com/aju001"><img title="aju" src="https://img.shields.io/badge/author-aju001?color=black&style=for-the-badge&logo=github"></a>
+<a><img title="aju" src="https://img.shields.io/badge/author-aju001?color=black&style=for-the-badge&logo=github"></a>
 
 </div>
 <p align="center">
