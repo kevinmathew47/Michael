@@ -1,14 +1,14 @@
 {
-  "name": "Ajuser",
-  "version": "7.3.6",
-  "description": "Ajuser is the Modified Version of WhatsAsena, Made By @aju with Baileys.",
+  "name": "Michael",
+  "version": "1.6.8",
+  "description": "Michael is the Modified Version of WhatsAsena, Made By @michael with Baileys.",
   "main": "./Ajuser/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aju001/Ajuser"
+    "url": "https://github.com/kevinmathew47"
   },
   "keywords": [
     "whatsapp",
@@ -17,13 +17,13 @@
     "asena",
     "WhatsAsena"
   ],
-  "author": "aju",
-  "developer": "@aju001 / @aju001",
+  "author": "michael",
+  "developer": "@michael",
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/aju001/Ajuser/issues"
   },
-  "homepage": "https://github.com/aju001/Ajuser#readme",
+  "homepage": "https://github.com/kevinmathew47",
   "dependencies": {
     "@lh2020/speedtest-net": "^2.1.1",
     "textmaker-thiccy": "1.2.1",
