@@ -1,11 +1,11 @@
-<a href="https://github.com/aju001"><img src="https://fontmeme.com/permalink/211121/32108414fe61d225739702fe3b4c0784.png" alt="google-font" border="0"></a>
+<a href="https://github.com/kevinmathew47"><Welcom TO mic bot V1></a>
 <div align="center">
 
 
 
 
 <div align="center">
-  <a href="https://ibb.co/4wyvT9j"><img src="https://i.ibb.co/Y2mXdR5/ajuser.jpg""width="300" height="300"/>
+  <a href="https://ibb.co/4wyvT9j"><img src="https://avatars.githubusercontent.com/u/96816115?v=4""width="300" height="300"/>
     <p align="center">
     
     
@@ -15,11 +15,11 @@
 </p>
   </p>
 <p align="center">
-<a><img title="aju" src="https://img.shields.io/badge/author-aju001?color=black&style=for-the-badge&logo=github"></a>
+<a><img title="michael" src="https://img.shields.io/badge/author-aju001?color=black&style=for-the-badge&logo=github"></a>
 
 </div>
 <p align="center">
-Project created by <a href="https://github.com/aju001">aju</a> to make it public
+Project created by <a href="https://github.com/kevinmathew47">michael</a> to make it public
     <br>
        | © |
         Reserved |
@@ -29,44 +29,24 @@ Project created by <a href="https://github.com/aju001">aju</a> to make it public
 ----
 
   <p align="center">
-  <a href="https://github.com/aju001/Ajuser_v2 ">
-    <img src="https://img.shields.io/github/repo-size/aju001/Ajuser_v2?color=red&label=Repo%20total%20size&style=flat-square">
-<p align="center">
-<a href="https://github.com/aju001/followers"><img title="Followers" src="https://img.shields.io/github/followers/aju001?color=grey&style=plastic"></a>
-<a href="https://github.com/aju001/Ajuser_v2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/aju001/Ajuser?color=grey&style=plastic"></a>
-<a href="https://github.com/aju001/Ajuser_v2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/aju001/Ajuser_v2?color=grey&style=plastic"></a>
-<a href="https://github.com/aju001/Ajuser_v2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/aju001/Ajuser_v2?label=Watchers&color=grey&style=flat-circle"></a>
-<a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-red.svg"</a>
-<h3 align="center">Contact Me:</h3>
-
+  <a href="https://github.com/kevinmathew47 ">
+    
 </p>
     
 <p align="center">
 
-<a href="https://instagram.com/__ajuz___001?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
 
-</p>
-
-<h4 align="center">Support Video For Deploy Bot:</h4>
-
-<p align="center">
-
-<a href="https://youtu.be/MPoRRTkjuW0" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aju001&show_icons=true&theme=dark&locale=en" alt="aju" /></p>
-    
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aju001&theme=dark" alt="aju" /></p>
 </p>
     
 ```
     
-Ajuser Userbot is Open Source software open to development. 
+Michael Userbot is Open Source software open to development. 
 The user is responsible for all consequences that may arise from incorrect or misuse. 
 Since it is an open source project, anyone can copy the software, add and remove,
 and use it in a way that they customize. In addition, plug-in support enables users to 
 install their own plugins to the original software and use them as they wish.
 Using the bot out of purpose will explicitly ban you.
-Usage is entirely the user's responsibility, Ajuser Userbot is an 
+Usage is entirely the user's responsibility, Michael Userbot is an 
 infrastructure only. Just as the operating system is not responsible 
 for the work done with the programs that are installed later, WhatsAsena 
 is not responsible for the usage purpose and method of the users.
@@ -120,16 +100,6 @@ $ node qr.js
 $ node bot.js
 ```
 # 📢 Guide
-<div align="center">
-Click WA logo to Join Support Group 👇
-    <br>
-<br>
-
-<a href="https://chat.whatsapp.com/HebsCx7CBxMJBLqyeHemcO"><img title="join support" src="https://img.shields.io/badge/join_support-afnanplk/pinkymwol?color=black&style=for-the-badge&logo=whatsapp"></a>
-  <div align="center">
-
-
-
 ### ⚠️ Warning! 
 ```
 Due to Userbot;  Your WhatsApp account may be banned.
@@ -141,9 +111,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![aju](https://github.com/aju001.png?size=100)](https://github.com/aju001)
+  [![Michael](https://avatars.githubusercontent.com/u/96816115?v=4?size=100)](https://avatars.githubusercontent.com/u/96816115?v=4)
 
-[aju](https://github.com/aju001)  
+[michael](https://avatars.githubusercontent.com/u/96816115?v=4)  
 Base, Bug Fixed Modifiying  as   public | Bug Fixes, Modules
   </div>
 
