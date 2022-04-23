@@ -137,7 +137,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('✅ Ajuser bot working aan😎!')
+            chalk.green.bold('✅ Mic bot V1 working aan😎!')
         );
         await new Promise(r => setTimeout(r, 1100));
 
@@ -162,7 +162,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                     })
                 }
                 else {
-                    await conn.sendMessage(conn.user.jid, '*AJUSER BOT WORKING AYI😜*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*Mic BOT V1 WORKING AYI😜*', MessageType.text);
                 }
             }
             else {
@@ -184,7 +184,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                     })
                 }
                 else {
-                    await conn.sendMessage(conn.user.jid, '*AJUSER BOT WORKING AYI😜*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*Mic BOT V1 BOT WORKING AYI😜*', MessageType.text);
                 }
 
             }
@@ -233,7 +233,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                 }
                 else {
 
-                    await conn.sendMessage(conn.user.jid, '*AJUSER BOT WORKING AYI😜*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*Mic BOT V1 WORKING AYI😜*', MessageType.text);
                 }
             }
         }
@@ -391,8 +391,8 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*~Ajuser~*' +
-                                    '\n\n*🧞‍♂️ ' + error + '*\n\n```Report🥲 errors\njoin with \n https://chat.whatsapp.com/HebsCx7CBxMJBLqyeHemcO``` ' 
+                                await conn.sendMessage(conn.user.jid, '*~Mic BOT V1~*' +
+                                    '\n\n*🧞‍♂️ ' + error + '*\n\n```Report🥲 errors\n ``` ' 
                                     , MessageType.text);
                             }
                         }
