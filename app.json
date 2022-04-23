@@ -1,14 +1,14 @@
 {
-    "name": "Ajuser",
-    "description": "Ajuser is the Modified Version of WhatsAsena, Made By @aju with Baileys.",
+    "name": "Michael",
+    "description": "Michael is the Modified Version of WhatsAsena, Made By @aju with Baileys.",
     "logo": "https://i.ibb.co/Y2mXdR5/ajuser.jpg",
     "keywords": ["whatsapp", "userbot", "julie", "WhatsAsena", "mwol", "bot", "ai"],
-    "repository": "https://github.com/aju001/Ajuser",
-    "website":   "https://github.com/aju001/Ajuser",
-    "success_url": "https://github.com/aju001/Ajuser",
+    "repository": "https://github.com/kevinmathew47",
+    "website":   "https://github.com/kevinmathew47",
+    "success_url": "https://github.com/kevinmathew47",
     "stack": "container",
     "env": {
-        "AJU_SESSION": {
+        "MIC_SESSION": {
             "description": "Type here yours Asena Session.",
             "required": true
         },
@@ -123,7 +123,7 @@
         "BOT_NAME": {
             "description": "heading for .list command reply",
             "required": false,
-            "value": "🦋 𝘼𝙟𝙪𝙨𝙚𝙧 🦋"
+            "value": "🦋 Michael 🦋"
         },
         "WORK_TYPE": {
             "description": "Ajuser Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
